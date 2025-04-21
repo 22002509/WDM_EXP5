@@ -94,3 +94,5 @@ if __name__ == "__main__":
 
 
 ### Result:
+
+Thus, implementation of Information Retrieval Using Boolean Model in Python is successfully verified.
